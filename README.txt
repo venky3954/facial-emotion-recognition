@@ -89,14 +89,7 @@ facial-expression-recognition/
 
 ## Installation
 
-### 1. Clone the repository
-
-```bash id="clone_cmd"
-git clone https://github.com/your-username/facial-expression-recognition.git
-cd facial-expression-recognition
-```
-
-### 2. Install dependencies
+### Install dependencies
 
 ```bash id="install_cmd"
 pip install -r requirements.txt
